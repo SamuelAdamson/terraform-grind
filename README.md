@@ -11,4 +11,4 @@ Cloud computing and the proliferation of public cloud technologies will enable t
 
 Due to the large compute resources required by these models, the only practical way to deliver these technologies to businesses is through public cloud. 
 
-In the coming decades, quantum computing will also likely be delivered in a similar manner.
+In the coming decades, quantum computing will likely be delivered in a similar manner.
